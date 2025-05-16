@@ -1,4 +1,4 @@
-#Former-HGR: Hand Gesture Recognition With Hybrid Feature-Aware Transformer
+# Former-HGR: Hand Gesture Recognition With Hybrid Feature-Aware Transformer
 doi: https://doi.org/10.1109/LSENS.2025.3566022
 
 Monu Verma, Garvit Gopalani, Saiyam Bharara, Santosh Kumar Vipparthi, Subrahmanyam Murala and Mohamed Abdel-Mottaleb. "Former-HGR: Hand Gesture Recognition with Hybrid Feature-Aware Transformer.
