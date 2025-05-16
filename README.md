@@ -16,6 +16,7 @@ Step 3: download ir50.pth https://drive.google.com/file/d/1rgxthxEYUKUj6Y_P22_1D
 Step 3: run python main_OUHANS.py
  # Citation
  If you find our work useful, please consider citing our paper:
+ 
  @ARTICLE{11005620,
   author={Verma, Monu and Gopalani, Garvit and Bharara, Saiyam and Vipparthi, Santosh Kumar and Murala, Subrahmanyam and Abdel-Mottaleb, Mohamed},
   journal={IEEE Sensors Letters}, 
